@@ -1,2 +1,3 @@
-src/simcity_collab.lua
+src/simcity_collab*.lua
+src/simcity_collab*.bin
 src/helper.lua
